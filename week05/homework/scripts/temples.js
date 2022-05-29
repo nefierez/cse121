@@ -148,7 +148,3 @@ const sortBy = () => {
   };
 // Step 9: Add a change event listener to the HTML element with an ID of sortBy that calls the sortBy function
 document.querySelector("#sortBy").addEventListener("change", sortBy);
-/* STRETCH */
-
-// Consider adding a "Filter by" feature that allows users to filter the list of temples
-// This will require changes to both the HTML and the JavaScript files
